@@ -1,5 +1,4 @@
-import java.util.Scanner;
-public class Main{
+public class Experssion3 {
     public static void main(String[] args){
         int x=7;
         int a=(7*(49/7))+(35/7);

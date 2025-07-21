@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main{
+public class Passorfail{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int s1,s2,s3;

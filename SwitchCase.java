@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class SwitchCase{
     public static void main(String[] args){
         int day;
         Scanner sc=new Scanner(System.in);

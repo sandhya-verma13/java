@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class SumOfTableUsingFor{
     public static void main(String[] args){
         int sum=0,n;
         Scanner sc =new Scanner(System.in);

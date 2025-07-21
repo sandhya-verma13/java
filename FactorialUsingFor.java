@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class FactorialUsingFor{
     public static void main(String[] args){
         int n,fact=1;
         System.out.print("Enter the Number: ");

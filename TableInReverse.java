@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class TableInReverse{
     public static void main(String[] args){
         int n;
         System.out.print("Enter the Table: ");

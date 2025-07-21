@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class TaxCalculation{
     public static void main(String[] args){
         float tax=0;
         float income;

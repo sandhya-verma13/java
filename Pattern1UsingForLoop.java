@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class Pattern1UsingForLoop{
     public static void main(String[] args){
         int n;
         Scanner sc=new Scanner(System.in);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class SumOfEvenNumsUsingWhile{
     public static void main(String[] args){
         int sum=0;
         int n;

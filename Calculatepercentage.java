@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class Calculatepercentage{
     public static void main(String[] args){
         System.out.println("Calculate the Percentage of Marks");
         Scanner sc=new Scanner(System.in);

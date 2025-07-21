@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class SumOfTheTable{
     public static void main(String[] args){
         int n,sum=0;
         System.out.print("Enter the Table: ");
