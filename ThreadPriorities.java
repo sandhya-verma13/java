@@ -8,9 +8,7 @@ class Mythr1 extends Thread{
             System.out.println("I am Thread "+ this.getName());
             i++;
         }
-
     }
-
 }
 public class ThreadPriorities {
     public static void main(String[] args) {
